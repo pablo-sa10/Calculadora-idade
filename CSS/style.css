@@ -81,6 +81,9 @@ input::placeholder{
 
 .erro{
     color: red;
+    font-size: 10px;
 }
 
-
+.erro-borda{
+    border: 1px solid red;
+}
